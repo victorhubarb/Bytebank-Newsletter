@@ -8,7 +8,7 @@ Newsletter project for email marketing created with the aim of developing a news
 
 ## Demo
 
-
+https://bytebank-newsletter.vercel.app/
 
 ## Project Features
 
@@ -37,7 +37,7 @@ Newsletter project for email marketing created with the aim of developing a news
 Clone the project
 
 ```bash
-  git clone https://github.com/victorhubarb/SkillUp
+  git clone https://github.com/victorhubarb/Bytebank-Newsletter
 ```
 
 ## Future Implementations
